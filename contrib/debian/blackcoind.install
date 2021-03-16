@@ -1,0 +1,2 @@
+debian/bin/coinbed usr/bin
+src/coinbed usr/lib/coinbe
