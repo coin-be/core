@@ -1,8 +1,3 @@
-
-Coinbe is based on Blackcoin(https://gitlab.com/blacknet-ninja)
-
-https://coinbe.org/ aims to continue on CoinBe chain.
-
 # **Get Started**
 
 1. Download the latest release for your platform and unpack it to your desired directory
@@ -13,6 +8,12 @@ To receive transactions, simply select "Receive" on the left side of the wallet 
 # Running a Full Node
 Currently, full nodes are only available to Linux, and can be found on the [releases page](https://github.com/coin-be/core/releases "releases pages") as `coinbe-daemon-linux.tar.gz`.
 
+1.After downloading the node latest version from the releases page, it needs to be unpacked using: `tar xvzf coinbe-daemon-linux.tar.gz`
+2.You can run the node using the following command: `./coinbed`
+
+Ports used by the Coinbe Node daemon:
+- **RPC Port:** 28751
+- **P2P Port: **28752
 
 
 
@@ -34,4 +35,5 @@ Currently, full nodes are only available to Linux, and can be found on the [rele
 ####  Social media
 
 Twitter: [@coinbe1](https://twitter.com/coinbe1 "@coinbe1")
+
 Subreddit: [/r/Coinbe/](https://www.reddit.com/r/Coinbe/ "/r/Coinbe/")
