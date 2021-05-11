@@ -13,7 +13,7 @@ Currently, full nodes are only available to Linux, and can be found on the [rele
 
 Ports used by the Coinbe Node daemon:
 - **RPC Port:** 28751
-- **P2P Port: **28752
+- **P2P Port:** 28752
 
 
 
