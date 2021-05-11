@@ -18,7 +18,7 @@ Ports used by the Coinbe Node daemon:
 
 
 # Coin Specifications:
-- **Coin Name: **CoinBe
+- **Coin Name:** CoinBe
 - **Ticker:** CNBE
 - **Algorithm:** PoW Scrypt + PoS
 - **Block Reward:** 1000 CNBE
