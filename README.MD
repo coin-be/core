@@ -1,15 +1,14 @@
 # **Get Started**
 
 1. Download the latest release for your platform and unpack it to your desired directory
-2. Run `coinbe-qt.exe` if you are on Windows or `./coinbe-qt` if you are on Linux.
+2. Run `coinbe-qt.exe` if you are on Windows or `./coinbe-1-qt-linux` if you are on Linux.
 
 To receive transactions, simply select "Receive" on the left side of the wallet and check your address.
 
 # Running a Full Node
-Currently, full nodes are only available to Linux, and can be found on the [releases page](https://github.com/coin-be/core/releases "releases pages") as `coinbe-daemon-linux.tar.gz`.
+Currently, full nodes are only available to Linux, and can be found on the [releases page](https://github.com/coin-be/core/releases "releases pages") as `coinbe-1-daemon-linux`.
 
-1.After downloading the node latest version from the releases page, it needs to be unpacked using: `tar xvzf coinbe-daemon-linux.tar.gz`
-2.You can run the node using the following command: `./coinbed`
+1.You can run the node using the following command: `./coinbe-1-daemon-linux`
 
 Ports used by the Coinbe Node daemon:
 - **RPC Port:** 35811
