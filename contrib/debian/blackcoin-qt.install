@@ -1,5 +1,0 @@
-coinbe-qt usr/bin
-share/pixmaps/bitcoin32.xpm usr/share/pixmaps
-share/pixmaps/bitcoin80.xpm usr/share/pixmaps
-debian/coinbe-qt.desktop usr/share/applications
-debian/coinbe-qt.protocol usr/share/kde4/services/
