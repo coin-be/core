@@ -23,7 +23,6 @@ Ports used by the Coinbe Node daemon:
 - **Time to mature to stake:** 8 hours
 - **Block Reward PoW:** 20 CNBE
 - **Block Reward PoS:** 5 CNBE
-- **Power-of-Stake Reward:** 1 CNBE
 - **Last Power-of-Work Block:** 1.000.000 CNBE
 - **Premine:** 5.000.000 CNBE
 - **Confirmations per transaction:** 7 blocks
