@@ -24,11 +24,10 @@ Ports used by the Coinbe Node daemon:
 - **Block Reward PoW:** 20 CNBE
 - **Block Reward PoS:** 5 CNBE
 - **Power-of-Stake Reward:** 1 CNBE
-- **Last Power-of-Work Block:** 80.000
+- **Last Power-of-Work Block:** 1.000.000 CNBE
 - **Premine:** 5.000.000 CNBE
-- **Total Supply:** 25.000.000 CNBE
-- **Confirmations per transaction:** 6+1 blocks
-- **Confirmations per mining:** 20+1 blocks
+- **Confirmations per transaction:** 7 blocks
+- **Confirmations per mining:** 21 blocks
 
 ------------
 
